@@ -3,7 +3,6 @@
 
 # Estella Humanoid Robot 🤖
 **An open-source, human-inspired humanoid robot - a mirror of us.**
-# https://www.estellahumanoids.com
 
 ---
 
