@@ -3,6 +3,7 @@
 
 # Estella — Humanoid Robot 🤖
 **An open-source, human-inspired humanoid robot - a mirror of us.**
+https://www.estellahumanoids.com
 
 ---
 
@@ -20,10 +21,10 @@ Estella is more than a robot, it’s a platform for learning, experimentation, a
 ---
 
 ## Features
-- **Modular and extensible design** — each component can be replaced or upgraded independently.  
-- **Human-inspired mechanics** — realistic spine, expressive face, and articulated shoulders.  
-- **Open-source 3D models** — CAD files, STEP, STL, and renders for easy access.  
-- **Community-driven development** — everyone can contribute, learn, and iterate.
+- **Modular and extensible design**: each component can be replaced or upgraded independently.  
+- **Human-inspired mechanics**: realistic spine, expressive face, and articulated shoulders.  
+- **Open-source 3D models**: CAD files, STEP, STL, and renders for easy access.  
+- **Community-driven development**: everyone can contribute, learn, and iterate.
 
 ---
 
@@ -46,7 +47,7 @@ We welcome **researchers, engineers, designers, and makers**.
 2. Create a branch and make your changes.  
 3. Submit a Pull Request with description and screenshots/renders.  
 
-Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through hello@estellahumanoids.com
+Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through negin@estellahumanoids.com
 
 **Versioning:**  
 - `current/` → latest design  
