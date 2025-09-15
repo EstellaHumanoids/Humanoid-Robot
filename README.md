@@ -68,7 +68,7 @@ Full license texts are included in the repository (`LICENSE-HARDWARE`, `LICENSE-
 ## Community & Support
 - Join discussions: [GitHub Discussions](#)  
 - Real-time chat: Discord / Matrix (links coming soon)  
-- Updates & news: follow project on [website link]  
+- Updates & news: follow project on www.estellahumanoids.com and Linkedin page https://www.linkedin.com/company/estella-humanoids
 
 ---
 
