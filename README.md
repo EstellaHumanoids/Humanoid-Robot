@@ -73,7 +73,7 @@ Full license texts are included in the repository (`LICENSE-HARDWARE`, `LICENSE-
 ---
 
 ## Credits
-Estella was conceived by **Prof. Behnam Rahnama**, co-developed by **Negin (Fatemeh) Heiran**, and supported by colleagues at Medis Startup Studio. Now, Estella is open for the global community to **explore, innovate, and contribute**.
+Estella was conceived by **Prof. Behnam Rahnama**, co-developed by **Negin (Fatemeh) Heiran** at Medis Startup Studio. Now, Estella is open for the global community to **explore, innovate, and contribute**.
 
 ---
 
