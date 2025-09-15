@@ -57,9 +57,9 @@ See `/community/CONTRIBUTING.md` for details.
 ---
 
 ## License
-- **Hardware & 3D designs:** CC BY-SA 4.0  
-- **Software & scripts:** GPL v3  
-- **Documentation & media:** CC BY 4.0  
+- **Hardware & 3D designs:** CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) and GPL v3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
+- **Software & scripts:** GPL v3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
+- **Documentation & media:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 Full license texts are included in the repository (`LICENSE-HARDWARE`, `LICENSE-SOFTWARE`, `LICENSE-DOCS`).
 
