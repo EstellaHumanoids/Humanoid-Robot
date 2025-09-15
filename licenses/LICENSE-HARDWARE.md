@@ -4,4 +4,4 @@ You are free to share and adapt the material, provided you give appropriate cred
 and distribute your contributions under the same license.
 
 Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-https://www.gnu.org/licenses/gpl-3.0.html
+and https://www.gnu.org/licenses/gpl-3.0.html
