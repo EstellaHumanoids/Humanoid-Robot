@@ -2,7 +2,7 @@
 ![Estella Banner](docs/banner.png)
 
 # Estella — Humanoid Robot 🤖
-**An open-source, human-inspired humanoid robot — a mirror of us.**
+**An open-source, human-inspired humanoid robot - a mirror of us.**
 
 ---
 
@@ -15,7 +15,7 @@ Estella is an **open-source humanoid robot** designed for research, education, a
 
 The project started in 2017 under **Prof. Behnam Rahnama** at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, **Negin (Fatemeh) Heiran**, and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
 
-Estella is more than a robot—it’s a platform for learning, experimentation, and collaboration.
+Estella is more than a robot, it’s a platform for learning, experimentation, and collaboration.
 
 ---
 
@@ -32,9 +32,9 @@ Estella is more than a robot—it’s a platform for learning, experimentation, 
 2. Check documentation and guides: `/docs/`  
 3. Build a module or modify designs: download from `current/` folder for latest version.
 
-**File formats:** STEP, STL, OBJ for compatibility; editable CAD files included where possible.
+**File formats:** STEP and STL for compatibility; editable CAD files included where possible.
 
-**Recommended software:** FreeCAD, Blender (open-source tools).
+**Recommended software:** FreeCAD (open-source tools), Solidworks
 
 ---
 
@@ -46,7 +46,7 @@ We welcome **researchers, engineers, designers, and makers**.
 2. Create a branch and make your changes.  
 3. Submit a Pull Request with description and screenshots/renders.  
 
-Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels.
+Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through hello@estellahumanoids.com
 
 **Versioning:**  
 - `current/` → latest design  
