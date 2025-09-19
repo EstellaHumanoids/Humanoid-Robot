@@ -51,7 +51,7 @@ Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or
 **Versioning:**  
 - `v01/` → Currently we only published 1 version. 
 
-See `CONTRIBUTING.md` for details.
+See `CONTRIBUTING.md`(#CONTRIBUTING.md) for details.
 
 ---
 
