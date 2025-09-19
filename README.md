@@ -52,7 +52,7 @@ Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or
 **Versioning:**  
 - `v01/` → Currently we only published 1 version. 
 
-See [CONTRIBUTING.md](#https://github.com/EstellaHumanoids/Humanoid-Robot/blob/main/CONTRIBUTING.md) for details.
+See `CONTRIBUTING.md` for details.
 
 ---
 
