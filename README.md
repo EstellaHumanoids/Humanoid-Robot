@@ -1,5 +1,6 @@
 <!-- Banner image -->
 ![Estella Banner](docs/banner.png)
+https://www.estellahumanoids.com
 
 # Estella Humanoid Robot 🤖
 **An open-source, human-inspired humanoid robot - a mirror of us.**
@@ -13,7 +14,7 @@ Estella is an **open-source humanoid robot** designed for research, education, a
 - **Spine**  
 - **Shoulders**
 
-The project started in 2017 under **Prof. Behnam Rahnama** at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, **Negin (Fatemeh) Heiran**, and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
+The project started in 2017 under [Prof. Behnam Rahnama](#www.brahnama.com) at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, [Negin (Fatemeh) Heiran](#www.neginheiran.com), and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
 
 Estella is more than a robot, it’s a platform for learning, experimentation, and collaboration.
 
@@ -28,8 +29,8 @@ Estella is more than a robot, it’s a platform for learning, experimentation, a
 ---
 
 ## Quick Start
-1. Browse 3D models: `/designs/`  
-2. Check documentation and guides: `/docs/`  
+1. Browse 3D models: [designs](#https://github.com/EstellaHumanoids/Humanoid-Robot/blob/main/designs)
+2. Check documentation and guides: [docs](#https://github.com/EstellaHumanoids/Humanoid-Robot/blob/main/docs)  
 3. Build a module or modify designs: download from `V01` folder for first version.
 
 **File formats:** STEP and STL for compatibility; editable CAD files included where possible.
@@ -46,7 +47,7 @@ We welcome **researchers, engineers, designers, and makers**.
 2. Create a branch and make your changes.  
 3. Submit a Pull Request with description and screenshots/renders.  
 
-Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through negin@estellahumanoids.com
+Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through hello@estellahumanoids.com
 
 **Versioning:**  
 - `v01/` → Currently we only published 1 version. 
