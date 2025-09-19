@@ -9,7 +9,7 @@
 ## About
 Estella is an **open-source humanoid robot** designed for research, education, and innovation. Its modular design focuses on **human-inspired anatomy** and expressive interaction. Current modules include:
 
-- **Face and Neck**
+- **Face**
 - **Spine**  
 - **Shoulders**
 
@@ -30,7 +30,7 @@ Estella is more than a robot, it’s a platform for learning, experimentation, a
 ## Quick Start
 1. Browse 3D models: `/designs/`  
 2. Check documentation and guides: `/docs/`  
-3. Build a module or modify designs: download from `current/` folder for latest version.
+3. Build a module or modify designs: download from `V01` folder for first version.
 
 **File formats:** STEP and STL for compatibility; editable CAD files included where possible.
 
