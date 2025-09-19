@@ -1,8 +1,8 @@
 <!-- Banner image -->
 ![Estella Banner](docs/banner.png)
+www.estellahumanoids.com
 
 # Estella Humanoid Robot 🤖
-https://www.estellahumanoids.com
 **An open-source, human-inspired humanoid robot - a mirror of us.**
 
 ---
@@ -14,7 +14,7 @@ Estella is an **open-source humanoid robot** designed for research, education, a
 - **Spine**  
 - **Shoulders**
 
-The project started in 2017 under [Prof. Behnam Rahnama](#www.brahnama.com) at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, [Negin (Fatemeh) Heiran](#www.neginheiran.com), and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
+The project started in 2017 under [Prof. Behnam Rahnama](www.brahnama.com) at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, [Negin (Fatemeh) Heiran](www.neginheiran.com), and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
 
 Estella is more than a robot, it’s a platform for learning, experimentation, and collaboration.
 
