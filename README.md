@@ -1,8 +1,8 @@
 <!-- Banner image -->
 ![Estella Banner](docs/banner.png)
-https://www.estellahumanoids.com
 
 # Estella Humanoid Robot 🤖
+https://www.estellahumanoids.com
 **An open-source, human-inspired humanoid robot - a mirror of us.**
 
 ---
