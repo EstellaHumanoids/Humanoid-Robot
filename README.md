@@ -14,7 +14,7 @@ Estella is an **open-source humanoid robot** designed for research, education, a
 - **Spine**  
 - **Shoulders**
 
-The project started in 2017 under [Prof. Behnam Rahnama](root/www.brahnama.com) at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, [Negin (Fatemeh) Heiran](www.neginheiran.com), and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
+The project started in 2017 under **Prof. Behnam Rahnama** at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, **Negin (Fatemeh) Heiran**, and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
 
 Estella is more than a robot, it’s a platform for learning, experimentation, and collaboration.
 
@@ -29,8 +29,8 @@ Estella is more than a robot, it’s a platform for learning, experimentation, a
 ---
 
 ## Quick Start
-1. Browse 3D models: [designs](#https://github.com/EstellaHumanoids/Humanoid-Robot/blob/main/designs)
-2. Check documentation and guides: [docs](#https://github.com/EstellaHumanoids/Humanoid-Robot/blob/main/docs)  
+1. Browse 3D models: [designs](#/designs)
+2. Check documentation and guides: [docs](#/docs)  
 3. Build a module or modify designs: download from `V01` folder for first version.
 
 **File formats:** STEP and STL for compatibility; editable CAD files included where possible.
