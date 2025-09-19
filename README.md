@@ -49,10 +49,9 @@ We welcome **researchers, engineers, designers, and makers**.
 Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through negin@estellahumanoids.com
 
 **Versioning:**  
-- `current/` → latest design  
-- `vX/` → archived versions for major updates  
+- `v01/` → Currently we only published 1 version. 
 
-See `/community/CONTRIBUTING.md` for details.
+See `CONTRIBUTING.md` for details.
 
 ---
 
