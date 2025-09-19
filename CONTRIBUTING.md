@@ -1,17 +1,17 @@
 # Contributing to Estella 🤖✨  
 
 Thank you for your interest in contributing to **Estella — the open-source humanoid robot inspired by human anatomy.**  
-Estella replicates the beauty of our gestures, the strength of our spine, and the freedom of our movement. By opening the project, we aim to build a true mirror of us — **built for the community, by the community.**  
+Estella replicates the beauty of our gestures, the strength of our spine, and the freedom of our movement. By opening the project, we aim to build a true mirror of us, **built for the community, by the community.**  
 
 ---
 
 ## 💡 How You Can Contribute  
-We welcome contributions from everyone — whether you’re a researcher, engineer, designer, or robotics enthusiast. Here are some ways to get involved:  
+We welcome contributions from everyone, whether you’re a researcher, engineer, designer, or robotics enthusiast. Here are some ways to get involved:  
 
-- 🦴 **3D Design & CAD** – Improve existing modules (face, spine, shoulders) or propose new ones.  
-- 💻 **Software & Control** – Develop control algorithms, simulations, or testing tools.  
-- 📖 **Documentation** – Write or improve guides, tutorials, and diagrams.  
-- 🌍 **Community** – Share ideas, help others, and join discussions.  
+- 🦴 **3D Design & CAD**: Improve existing modules (face, spine, shoulders) or propose new ones.  
+- 💻 **Software & Control**: Develop control algorithms, simulations, or testing tools.  
+- 📖 **Documentation**: Write or improve guides, tutorials, and diagrams.  
+- 🌍 **Community**: Share ideas, help others, and join discussions.  
 
 ---
 
@@ -30,10 +30,10 @@ Linkedin: https://www.linkedin.com/company/estella-humanoids/
 ## 📜 Contribution Guidelines  
 - Keep your work **modular, well-documented, and reproducible**.  
 - Credit any **third-party sources** or inspirations used.  
-- Be **kind and respectful** — Estella is a collaborative effort.  
+- Be **kind and respectful**, Estella is a collaborative effort.  
 - For major changes, please open an issue first to discuss what you’d like to change.  
 
 
 
-✨ Every contribution — big or small — helps shape Estella’s future.  
+✨ Every contribution, big or small, helps shape Estella’s future.  
 Thank you for being part of the journey!  
