@@ -29,8 +29,8 @@ Estella is more than a robot, it’s a platform for learning, experimentation, a
 ---
 
 ## Quick Start
-1. Browse 3D models: [designs](#/designs)
-2. Check documentation and guides: [docs](#/docs)  
+1. Browse 3D models: `designs`
+2. Check documentation and guides: `docs`
 3. Build a module or modify designs: download from `V01` folder for first version.
 
 **File formats:** STEP and STL for compatibility; editable CAD files included where possible.
