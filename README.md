@@ -50,7 +50,7 @@ We welcome **researchers, engineers, designers, and makers**.
 Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through hello@estellahumanoids.com
 
 **Versioning:**  
-- `v01/` → Currently we only published 1 version. 
+- `Vxx/` → the last version is the most updated.
 
 See `CONTRIBUTING.md` for details.
 
