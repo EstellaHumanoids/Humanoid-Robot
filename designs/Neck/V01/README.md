@@ -1,4 +1,4 @@
-# 🦴 Estella Humanoid – Neck Module  
+# 🤖 Estella Humanoid – Neck Module  
 
 This folder contains the **3D design files (.STEP format)** for the Neck module of Estella.  
 The Neck is designed as a **parallel mechanism** to replicate natural head movements (pitch, yaw, and roll).  
