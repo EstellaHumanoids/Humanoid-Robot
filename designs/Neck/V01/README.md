@@ -6,7 +6,7 @@ The Neck is designed as a **parallel mechanism** to replicate natural head movem
 👉 When combined with the **Spine module**, it completes the natural **S-shape curvature** of the human spine, ensuring anatomically accurate motion.  
 
 ## 📂 Files  
-- `_Neck Assembly.step` — main CAD design of the neck mechanism.  
+- `STEP/_Neck Assembly.step` — main CAD design of the neck mechanism.  
 
 ## 🔄 Other Formats  
 To save repository space, only **STEP files** are uploaded here.  
