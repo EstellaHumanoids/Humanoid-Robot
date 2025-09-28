@@ -11,8 +11,8 @@ www.estellahumanoids.com
 Estella is an **open-source humanoid robot** designed for research, education, and innovation. Its modular design focuses on **human-inspired anatomy** and expressive interaction. Current modules include:
 
 - **Face**
-- **Spine**  
-- **Shoulders**
+- **Neck**  
+- **Spine**
 
 The project started in 2017 under **Prof. Behnam Rahnama** at Medis Startup Studio. It was developed through the joint efforts of Prof. Rahnama, **Negin (Fatemeh) Heiran**, and supporting colleagues. Today, Estella continues as an **independent open-source project**, guided by Negin and a global community of contributors.
 
