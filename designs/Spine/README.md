@@ -1,4 +1,4 @@
-# 🦴 Estella Humanoid – Spine Module  
+# 🤖 Estella Humanoid – Spine Module  
 
 This folder contains the **3D design files (.STEP format)** for the Spine module of Estella.  
 The Spine is built from a **series of three 3-RSS parallel mechanisms**, designed to mimic the natural **S-shape curvature** of the human spine and provide lifelike flexibility.  
