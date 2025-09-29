@@ -24,7 +24,7 @@ Other CAD formats (SolidWorks, STL, etc.) are available on request.
 ## 📬 Access to More Formats
 To avoid unnecessary repository size growth, only **STEP files** are shared here.  
 If you require **alternative CAD formats**, please **contact me directly** via email:  
-📧 heiran.fatemeh@gmail.com  
+📧 hello@estellahumanoids.com
 
 ---
 
