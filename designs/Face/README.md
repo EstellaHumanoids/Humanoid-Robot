@@ -1,4 +1,4 @@
-# Estella – Face Module  
+# 🤖 Estella – Face Module  
 
 The **Face** is one of Estella’s most expressive and technically advanced modules.  
 It is designed to replicate a wide range of **human facial gestures and emotions**, capturing both common and subtle expressions.  
