@@ -47,7 +47,7 @@ We welcome **researchers, engineers, designers, and makers**.
 2. Create a branch and make your changes.  
 3. Submit a Pull Request with description and screenshots/renders.  
 
-Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through hello@estellahumanoids.com
+Not familiar with Git? Share your ideas or designs via **GitHub Discussions** or community channels or simply email me directly through hello@estellahumanoids.com or negin@estellahumanoids.com
 
 **Versioning:**  
 - `Vxx/` → the last version is the most updated.
